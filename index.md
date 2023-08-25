@@ -8,4 +8,4 @@ title: Mark's Blog
 ## It is a really stupid simple page created using Markdown
 ## and loads from the Student Repo
 
-!(waffle.jpeg)
+!(./waffle.jpeg)
