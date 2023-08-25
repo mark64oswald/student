@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Student Blog
+title: Mark's Blog
 ---
 
 
@@ -14,5 +14,6 @@ Blogging in GitHub pages is a way to learn and code at the same time.
 - [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
 - Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
 
-## This is Mark O's Student Home Page in Github
-## Yikes, this is a really horrible project
+# This is Mark's Home Page published using GitHub Pages
+## It is a really stupid simple page created using Markdown
+## and loads from the Student Repo
